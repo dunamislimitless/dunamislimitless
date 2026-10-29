@@ -8,7 +8,7 @@ If it ships on a phone and it has to feel fast, I'm probably in the Dart.
 - 🌱 I’m currently learning cloud engineering
 - 👯 I’m looking to collaborate on mobile engineering, Flutter, and cloud
 - 💬 Ask me about mobile engineering, Dart, Flutter, and turning product specs into apps people actually use
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-ogundoju-787a65230) · [X](https://x.com/DunamisLimtles)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-ogundoju-787a65230) · [X](https://x.com/DunamisLimtles)  · [Mail](mailto:ogundojusamuel@gmail.com) 
 - ⚡ Fun fact: *Dunamis* means power — I collect splash screens and onboarding animations the way some people collect sneakers
 
 ### Selected work
