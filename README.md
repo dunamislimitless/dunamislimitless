@@ -1,4 +1,4 @@
-## Hi there, I'm Samuel 👋
+## Hi there, I'm Dunamis 👋
 
 Professional **mobile engineer** in Lagos, shipping Flutter & Dart products at **FASYL**.
 
@@ -14,8 +14,6 @@ If it ships on a phone and it has to feel fast, I'm probably in the Dart.
 ### Selected work
 
 - [Dr-Marvis-Chat-AI](https://github.com/dunamislimitless/Dr-Marvis-Chat-AI) — mental health companion app
-- [E-commerce-App](https://github.com/dunamislimitless/E-commerce-App) — shopping app in Flutter
-- [whastappclone](https://github.com/dunamislimitless/whastappclone) — WhatsApp clone
 - [dartic](https://github.com/Odinachi/dartic) — Dart IDE on mobile
 
 ### Stack
