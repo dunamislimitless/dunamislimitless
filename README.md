@@ -1,13 +1,13 @@
 ## Hi there, I'm Samuel 👋
 
-Flutter & Dart engineer in Lagos, building mobile products at **FASYL**.
+Professional **mobile engineer** in Lagos, shipping Flutter & Dart products at **FASYL**.
 
 If it ships on a phone and it has to feel fast, I'm probably in the Dart.
 
-- 🔭 I’m currently working on Flutter apps at FASYL, plus a [portfolio](https://github.com/dunamislimitless/portfol) on the side
-- 🌱 I’m currently learning TypeScript / Next.js, and sharpening backend chops with Java
-- 👯 I’m looking to collaborate on Flutter, mobile UI motion, and Dart tooling
-- 💬 Ask me about Dart, Flutter, and turning product specs into apps people actually use
+- 🔭 I’m currently working as a professional mobile engineer at FASYL, plus a [portfolio](https://github.com/dunamislimitless/portfol) on the side
+- 🌱 I’m currently learning cloud engineering
+- 👯 I’m looking to collaborate on mobile engineering, Flutter, and cloud
+- 💬 Ask me about mobile engineering, Dart, Flutter, and turning product specs into apps people actually use
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samuel-ogundoju-787a65230) · [X](https://x.com/DunamisLimtles)
 - ⚡ Fun fact: *Dunamis* means power — I collect splash screens and onboarding animations the way some people collect sneakers
 
@@ -20,7 +20,7 @@ If it ships on a phone and it has to feel fast, I'm probably in the Dart.
 
 ### Stack
 
-`Dart` `Flutter` `REST` `TypeScript` `Java`
+`Mobile` `Dart` `Flutter` `REST` · learning `Cloud`
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=dunamislimitless&show_icons=true&theme=tokyonight&hide_border=true" alt="Samuel's GitHub stats" />
